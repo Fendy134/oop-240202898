@@ -4,7 +4,7 @@ Topik: **Sistem Informasi Penjualan Pertanian (AGRIPOS) - Full Integration denga
 ## Identitas
 - Nama  : **Fendy Agustian**
 - NIM   : **240202898**
-- Kelas : **SI-3 A**
+- Kelas : **3IKRB**
 
 ---
 
