@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainExceptionDemo",
+            "request": "launch",
+            "mainClass": "main.java.com.upb.agripos.MainExceptionDemo",
+            "projectName": "oop240202898_ec3bff3a"
+        },
+        {
+            "type": "java",
             "name": "MainCart",
             "request": "launch",
             "mainClass": "main.java.com.upb.agripos.MainCart",
